@@ -12,7 +12,7 @@ const CardList = ({ robots }) => {
       />
     );
   });
-  return <div>{cardArray}</div>;
+  return <div>{cardArray}</div>
 };
 
 export default CardList;
